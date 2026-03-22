@@ -9,3 +9,5 @@ Usage:
 
 Example:
 `.\https-file-server.exe --cloudflare --dir "C:\Users" --port 6432` - serves C:\Users on port 6432 with Cloudflared tunnel.
+
+The binaries are packed with PyInstaller.
