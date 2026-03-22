@@ -1,6 +1,6 @@
 # HTTPS File Server
 
-A simple HTTPS file server with Argon2id password hashing, optional Cloudflared tunnel, self-signed ECC certs and ability to serve a chosen directory.
+A simple HTTPS file server with Argon2id password hashing, optional Cloudflared tunnel, self-signed ECC certs, fail2ban (3 attempts, 5 min ip ban) and ability to serve a chosen directory.
 
 Usage:
 `--cloudflare` - enable the Cloudflared tunnel.
