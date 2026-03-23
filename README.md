@@ -12,4 +12,4 @@ Example:
 
 The binaries are packed with PyInstaller.
 
-All of the files (like certs and the password hash) will be stored in %USERPRROFILE%\BSoDs-HTTPS-FS.
+All of the files (like certs and the password hash) will be stored in %USERPROFILE%\BSoDs-HTTPS-FS.
