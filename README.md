@@ -13,3 +13,5 @@ Example:
 The binaries are packed with PyInstaller.
 
 All the files (like certs and the password hash) will be stored in %USERPROFILE%\BSoDs-HTTPS-FS.
+
+The username is `admin`.
